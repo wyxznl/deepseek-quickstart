@@ -6,7 +6,7 @@
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-[手动安装说明](https://github.com/ollama/ollama/blob/main/docs/linux.md)
+[手动安装说明](https://docs.ollama.com/linux)
 
 ### macOS
 
